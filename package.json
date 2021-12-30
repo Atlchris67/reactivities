@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "luxon": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/luxon": "^2.0.8"
+  }
+}
